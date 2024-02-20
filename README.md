@@ -5,8 +5,8 @@ You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for A
 
 ### Project Structure
 This project has :
-1. model.py - This contains code fot our Machine Learning model to predict employee salaries absed on trainign data in 'hiring.csv' file.
-2. app.py - This contains Flask APIs that receives employee details through GUI or API calls, computes the precited value based on our model and returns it.
+1. model.py - This contains code fot our Machine Learning model to predict the disorder by using the training and testing audio files.
+2. app.py - This contains Flask APIs that receives audio through GUI or API calls, computes the precition based on our model and returns it.
 
 ### Running the project
 1. Ensure that you are in the project home directory. Create the machine learning model by running below command -
