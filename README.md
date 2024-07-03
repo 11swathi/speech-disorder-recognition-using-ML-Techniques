@@ -44,7 +44,7 @@ If everything goes well, you should  be able to see the predcited disorder on th
 
 
 
-![Predicted](https://github.com/11swathi/speech-disorder-recognition-using-ML-Techniques/blob/main/MianPage.png)
+![Predicted](https://github.com/11swathi/speech-disorder-recognition-using-ML-Techniques/blob/main/MainPage.png)
 
 
 Predicted Disorders:
