@@ -40,6 +40,10 @@ Hit Record, then read the given sentence and hit stop.
 Now click on upload and hit Predict see what disorder you have. You can also save the recording locally for future use.
 
 If everything goes well, you should  be able to see the predcited disorder on the HTML page!
+
+
+
+
 ![Predicted](https://github.com/11swathi/speech-disorder-recognition-using-ML-Techniques/blob/main/MianPage.png)
 
 
