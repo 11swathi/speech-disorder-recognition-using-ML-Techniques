@@ -23,8 +23,17 @@ By default, flask will run on port 5000.
 
 3. Navigate to URL http://localhost:5000
 
+
+
+
 You should be able to view the homepage as below :
+
+
+
 ![HomePage](https://github.com/11swathi/speech-disorder-recognition-using-ML-Techniques/blob/main/HomePage.png)
+
+
+
 
 Hit Record, then read the given sentence and hit stop.
 
